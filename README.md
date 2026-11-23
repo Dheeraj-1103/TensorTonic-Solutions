@@ -31,6 +31,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | One-Hot Encoding (Multi-class) | Convert multiclass integer labels into a NumPy one-hot matrix with one active column per sample. | https://www.tensortonic.com/problems/one-hot-encoding |
 | Poisson Probability Mass Function & Cumulative Distribution Function | Compute Poisson probability mass and cumulative probabilities for a nonnegative event count and rate. | https://www.tensortonic.com/problems/poisson-pmf-cdf |
 | Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
+| Time-Based Split with a Gap | Split rows into training and validation sets along time, with a gap after the cutoff so labels cannot leak across it. | https://www.tensortonic.com/problems/time-based-split-with-gap |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/kattintidheeraj)
 <!-- tensortonic:end -->
